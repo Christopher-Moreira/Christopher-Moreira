@@ -4,26 +4,20 @@ Profile README
 
 <h1 align="center">👋 Hi, I'm Chrístopher Moreira</h1>
 
-<!---
-<div align="center">
-  <img src="https://github.com/Ileriayo/ileriayo/blob/master/images/header.gif" alt="header"/>
-</div>
---->
-
-<p align="center"><b>Full-Stack / Full-Cycle Software Engineer</b></p>
+<p align="center"><b>Full-Stack Software Engineer | ERP Systems | Automation | AI Solutions</b></p>
 <p align="center">(Open for Hiring)</p>
 
 ---
 
-<h2 align="center">Whoami</h2>
+<h2 align="center">Who Am I</h2>
 
 <p align="center">
   <samp>
-    Software Engineer focused on building real-world solutions that solve business problems — not just writing code.
+    Full-Stack Software Engineer focused on building business-driven software, ERP platforms, process automation and scalable web applications.
     <br><br>
-    I work across the entire software lifecycle, from architecture to deployment and production support, building scalable systems, robust APIs, and reliable applications.
+    My experience spans the complete software lifecycle, from requirements gathering and architecture design to backend development, frontend implementation and long-term product evolution.
     <br><br>
-    Strong background in backend architecture, system integrations, and infrastructure, with hands-on experience delivering high-impact systems in production environments.
+    I have worked on ERP systems, internal management platforms, RPA solutions, API integrations and AI-powered projects, helping organizations reduce manual work, improve operational efficiency and scale their processes through technology.
   </samp>
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=Christopher-Moreira" />
@@ -34,46 +28,63 @@ Profile README
 <h2 align="center">Tools of Trade</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/NestJS-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/React-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center">
-  PHP, Node.js, Python, React, Next.js, Vue.js, JavaScript, TypeScript, TailwindCSS,
-  MySQL, PostgreSQL, MongoDB, Redis,
-  Docker, Kubernetes, CI/CD, Linux, Git, Bitbucket.
+  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/NestJS-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
-
----
-
-<h2 align="center"> What I Do</h2>
 
 <p align="center">
-   Build complete web systems from scratch<br>
-   Integrate external APIs and services<br>
-   Automate business processes and workflows<br>
-   Design scalable backend architectures<br>
-   Deploy and maintain production systems<br>
+  PHP, Laravel, Adianti Framework, TypeScript, JavaScript, React, Next.js, Node.js, NestJS, Python,
+  MySQL, PostgreSQL, MongoDB, Redis,
+  Docker, Linux, Git, CI/CD, REST APIs, RPA and AI Integrations.
 </p>
 
 ---
 
-<h2 align="center"> Featured Work</h2>
+<h2 align="center">What I Do</h2>
+
+<p align="center">
+   Build ERP and business management systems<br>
+   Develop scalable backend APIs and services<br>
+   Create modern web applications with React and TypeScript<br>
+   Automate business processes using Python and RPA<br>
+   Integrate external services and third-party APIs<br>
+   Design software architectures focused on maintainability and growth
+</p>
+
+---
+
+<h2 align="center">Featured Work</h2>
 
 <p align="center">
   <br>
-  <b>Asset Management System</b><br>
-  Internal platform built from scratch that reduced asset registration time by ~50% and improved tracking reliability.
+
+  <b>ERP Asset Management Platform</b><br>
+  Designed and developed an internal asset management platform that reduced asset registration time by approximately 50% while improving tracking and operational reliability.
   <br><br>
 
-  <b>Process Automation (RPA)</b><br>
-  Automation pipeline integrating CRM data into internal systems, reducing manual work and operational errors.
+  <b>Business Process Automation</b><br>
+  Built automation workflows using Python and RPA techniques to integrate CRM data with internal systems, reducing repetitive manual work and operational errors.
+  <br><br>
+
+  <b>ERP Development & Business Solutions</b><br>
+  Contributed to the development and evolution of ERP platforms, implementing business rules, integrations, internal workflows and management tools.
   <br><br>
 
   <b>Web Platforms & Landing Pages</b><br>
-  Development of business-oriented applications and high-performance landing pages focused on usability and conversion.
+  Developed business-oriented web applications and landing pages focused on performance, responsiveness, usability and conversion.
+  <br><br>
+
+  <b>AI & Knowledge Management Projects</b><br>
+  Exploring AI-powered applications, local LLM integrations, RAG architectures, vector databases and intelligent knowledge management solutions.
 </p>
 
 ---
