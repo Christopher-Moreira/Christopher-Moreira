@@ -1,10 +1,13 @@
 <!--
 Profile README
---->  
+--->
 
 <h1 align="center">👋 Hi, I'm Chrístopher Moreira</h1>
 
-<p align="center"><b>Full-Stack Software Engineer | ERP Systems | Automation | AI Solutions</b></p>
+<p align="center">
+  <b>Full-Stack Software Engineer | TypeScript | React | Go</b>
+</p>
+
 <p align="center">(Open for Hiring)</p>
 
 ---
@@ -28,21 +31,22 @@ Profile README
 <h2 align="center">Tools of Trade</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/React-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/React-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white" />
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/NestJS-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 <p align="center">
-  PHP, Laravel, Adianti Framework, TypeScript, JavaScript, React, Next.js, Node.js, NestJS, Python,
+  TypeScript, React, Go, PHP, Laravel, Adianti Framework,
+  JavaScript, Next.js, Node.js, NestJS, Python,
   MySQL, PostgreSQL, MongoDB, Redis,
   Docker, Linux, Git, CI/CD, REST APIs, RPA and AI Integrations.
 </p>
@@ -65,26 +69,38 @@ Profile README
 <h2 align="center">Featured Work</h2>
 
 <p align="center">
-  <br>
 
-  <b>ERP Asset Management Platform</b><br>
-  Designed and developed an internal asset management platform that reduced asset registration time by approximately 50% while improving tracking and operational reliability.
-  <br><br>
+<b>ERP Asset Management Platform</b><br>
+Designed and developed an internal asset management platform that reduced asset registration time by approximately 50% while improving tracking and operational reliability.
 
-  <b>Business Process Automation</b><br>
-  Built automation workflows using Python and RPA techniques to integrate CRM data with internal systems, reducing repetitive manual work and operational errors.
-  <br><br>
+<br><br>
 
-  <b>ERP Development & Business Solutions</b><br>
-  Contributed to the development and evolution of ERP platforms, implementing business rules, integrations, internal workflows and management tools.
-  <br><br>
+<b>Business Process Automation</b><br>
+Built automation workflows using Python and RPA techniques to integrate CRM data with internal systems, reducing repetitive manual work and operational errors.
 
-  <b>Web Platforms & Landing Pages</b><br>
-  Developed business-oriented web applications and landing pages focused on performance, responsiveness, usability and conversion.
-  <br><br>
+<br><br>
 
-  <b>AI & Knowledge Management Projects</b><br>
-  Exploring AI-powered applications, local LLM integrations, RAG architectures, vector databases and intelligent knowledge management solutions.
+<b>ERP Development & Business Solutions</b><br>
+Contributed to the development and evolution of ERP platforms, implementing business rules, integrations, internal workflows and management tools.
+
+<br><br>
+
+<b>Web Platforms & Landing Pages</b><br>
+Developed business-oriented web applications and landing pages focused on performance, responsiveness, usability and conversion.
+
+<br><br>
+
+<b>AI & Knowledge Management Projects</b><br>
+Exploring AI-powered applications, local LLM integrations, RAG architectures, vector databases and intelligent knowledge management solutions.
+
+</p>
+
+---
+
+<h2 align="center">Current Focus</h2>
+
+<p align="center">
+  ERP Development • Process Automation • Artificial Intelligence • Backend Engineering • Software Architecture
 </p>
 
 ---
@@ -107,4 +123,4 @@ Profile README
 
 ---
 
-<h2 align="center">💻 Check Out My Repos ⬇️</h2>
+<h2 align="center">💻 Check Out My Repositories ⬇️</h2>
