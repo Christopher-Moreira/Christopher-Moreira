@@ -16,7 +16,7 @@ Profile README
 
 <p align="center">
   <samp>
-    Full-Stack Software Engineer focused on building business-driven software, ERP platforms, process automation and scalable web applications.
+    Software Engineer focused on building business-driven software, ERP platforms, process automation and scalable web applications.
     <br><br>
     My experience spans the complete software lifecycle, from requirements gathering and architecture design to backend development, frontend implementation and long-term product evolution.
     <br><br>
