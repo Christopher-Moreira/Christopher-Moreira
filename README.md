@@ -13,7 +13,6 @@ Profile README
 ---
 
 <h2 align="center">Who Am I</h2>
-  &nbsp;&nbsp;
 <p align="center">
   <samp>
     Software Engineer focused on building business-driven software, ERP platforms, process automation and scalable web applications.
@@ -29,9 +28,13 @@ Profile README
 ---
 
 <h2 align="center">Tools of Trade</h2>
-  <a href="https://github.com/Felipalds/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christopher-Moreira&layout=compact&theme=github_dark" />
-  </a>
+
+<div align="center"> 
+  <a href="https://github.com/Christopher-Moreira/github-readme-stats"> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christopher-Moreira&layout=compact&theme=github_dark" /> 
+  </a> 
+</div>
+
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/React-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
