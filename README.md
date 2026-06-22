@@ -13,7 +13,13 @@ Profile README
 ---
 
 <h2 align="center">Who Am I</h2>
-
+  <a href="https://github.com/Christopher-Moreira">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Felipalds&show_icons=true&theme=github_dark" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Christopher-Moreira/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christopher-Moreira&layout=compact&theme=github_dark" />
+  </a>
 <p align="center">
   <samp>
     Software Engineer focused on building business-driven software, ERP platforms, process automation and scalable web applications.
