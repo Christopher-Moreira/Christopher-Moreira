@@ -14,7 +14,7 @@ Profile README
 
 <h2 align="center">Who Am I</h2>
   <a href="https://github.com/Christopher-Moreira">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Felipalds&show_icons=true&theme=github_dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Christopher-Moreira&show_icons=true&theme=github_dark" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Christopher-Moreira/github-readme-stats">
