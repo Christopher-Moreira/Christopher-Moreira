@@ -29,8 +29,8 @@ Profile README
 ---
 
 <h2 align="center">Tools of Trade</h2>
-  <a href="https://github.com/Christopher-Moreira">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Christopher-Moreira&show_icons=true&theme=github_dark" />
+  <a href="https://github.com/Felipalds/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christopher-Moreira&layout=compact&theme=github_dark" />
   </a>
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;&nbsp;
