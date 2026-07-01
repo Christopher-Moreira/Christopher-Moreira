@@ -32,7 +32,7 @@ Profile README
 
 <div align="center"> 
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christopher-Moreira&layout=compact&theme=github_dark&hide_border=true&langs_count=8" 
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Christopher-Moreira&layout=compact&theme=github_dark&hide_border=true&langs_count=8" 
     alt="Top Languages"
   /> 
 </div>
