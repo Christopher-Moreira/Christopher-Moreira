@@ -130,7 +130,7 @@ Exploring AI-powered applications, local LLM integrations, RAG architectures, ve
 <h2 align="center">Reach me on</h2>
 
 <p align="center">
-  <a target="_blank" href="https://linkedin.com/in/chrismoreiradev">
+  <a target="_blank" href="www.linkedin.com/in/chrísmoreiradev">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -138,7 +138,7 @@ Exploring AI-powered applications, local LLM integrations, RAG architectures, ve
     <img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a target="_blank" href="https://github.com/Christopher-Moreira">
+  <a target="_blank" href="www.github.com/Christopher-Moreira">
     <img src="https://img.shields.io/badge/github-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
