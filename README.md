@@ -1,6 +1,6 @@
 <!--
 Profile README
---->
+-->
 
 <h1 align="center">👋 Hi, I'm Chrístopher Moreira</h1>
 
@@ -13,6 +13,7 @@ Profile README
 ---
 
 <h2 align="center">Who Am I</h2>
+
 <p align="center">
   <samp>
     Software Engineer focused on building business-driven software, ERP platforms, process automation and scalable web applications.
@@ -22,7 +23,7 @@ Profile README
     I have worked on ERP systems, internal management platforms, RPA solutions, API integrations and AI-powered projects, helping organizations reduce manual work, improve operational efficiency and scale their processes through technology.
   </samp>
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=Christopher-Moreira" />
+  <img src="https://komarev.com/ghpvc/?username=Christopher-Moreira" alt="Profile views" />
 </p>
 
 ---
@@ -30,23 +31,40 @@ Profile README
 <h2 align="center">Tools of Trade</h2>
 
 <div align="center"> 
-  <a href="https://github.com/Christopher-Moreira/github-readme-stats"> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christopher-Moreira&layout=compact&theme=github_dark" /> 
-  </a> 
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christopher-Moreira&layout=compact&theme=github_dark&hide_border=true&langs_count=8" 
+    alt="Top Languages"
+  /> 
 </div>
 
+<br>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/React-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/React-%2300D9FF.svg?style=for-the-badge&logo=react&logoColor=white" alt="React" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/NestJS-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/CI%2FCD-%23222222.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
 </p>
 
 <p align="center">
@@ -113,16 +131,16 @@ Exploring AI-powered applications, local LLM integrations, RAG architectures, ve
 <h2 align="center">Reach me on</h2>
 
 <p align="center">
-  <a target="_blank" href="https://linkedin.com/in/chrísmoreiradev">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a target="_blank" href="https://linkedin.com/in/chrismoreiradev">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="mailto:christophermoreira.dev@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a target="_blank" href="https://github.com/Christopher-Moreira">
-    <img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/github-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
