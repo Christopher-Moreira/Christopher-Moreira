@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="620" viewBox="0 0 1440 620" role="img" aria-labelledby="title desc">
 <title id="title">Chrístopher Moreira — Software Engineer</title>
 <desc id="desc">Terminal style GitHub profile with ASCII portrait and developer information</desc>
-<rect width="1200" height="620" rx="9" fill="#161b22"/>
-<rect x="1.5" y="1.5" width="1197" height="617" rx="8" fill="none" stroke="#777c82" stroke-width="1.5"/>
+<rect width="1440" height="620" rx="9" fill="#161b22"/>
+<rect x="1.5" y="1.5" width="1437" height="617" rx="8" fill="none" stroke="#777c82" stroke-width="1.5"/>
 <g transform="translate(8,25) scale(0.73,1)">
 <text x="0" y="0.0" fill="#c9d1d9" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="18.1" font-weight="400" letter-spacing="0" xml:space="preserve">                         .:-=+:      :::</text>
 <text x="0" y="18.4" fill="#c9d1d9" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="18.1" font-weight="400" letter-spacing="0" xml:space="preserve">                      ::**=*#@%%#*==#%@@#+-</text>
@@ -34,88 +34,80 @@
 <text x="0" y="496.8" fill="#c9d1d9" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="18.1" font-weight="400" letter-spacing="0" xml:space="preserve"> .%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
 <text x="0" y="515.2" fill="#c9d1d9" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="18.1" font-weight="400" letter-spacing="0" xml:space="preserve">.#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
 </g>
-<text x="560" y="31.0" fill="#c9d1d9" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.7" font-weight="400" xml:space="preserve">christopher@dev</text>
-<text x="706" y="31.0" fill="#6e7681" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="14.0" font-weight="400" xml:space="preserve">-----------------------------------------------</text>
-<text x="560" y="49.9" fill="#6e7681" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">•</text>
-<text x="578" y="49.9" fill="#ff9d3f" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">OS:</text>
-<text x="800" y="49.9" fill="#6e7681" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">................</text>
-<text x="893" y="49.9" fill="#9cd7ff" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">Arch Linux</text>
-<text x="560" y="68.8" fill="#6e7681" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">•</text>
-<text x="578" y="68.8" fill="#ff9d3f" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">Uptime:</text>
-<text x="800" y="68.8" fill="#6e7681" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">................</text>
-<text x="893" y="68.8" fill="#9cd7ff" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">2025 -&gt; present</text>
-<text x="560" y="87.7" fill="#6e7681" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">•</text>
-<text x="578" y="87.7" fill="#ff9d3f" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">Host:</text>
-<text x="800" y="87.7" fill="#6e7681" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">................</text>
-<text x="893" y="87.7" fill="#9cd7ff" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">MercadoPhoneTech</text>
-<text x="560" y="106.6" fill="#6e7681" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">•</text>
-<text x="578" y="106.6" fill="#ff9d3f" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">Kernel:</text>
-<text x="800" y="106.6" fill="#6e7681" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">................</text>
-<text x="893" y="106.6" fill="#9cd7ff" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">Full-Stack / Backend / AI</text>
-<text x="560" y="125.5" fill="#6e7681" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">•</text>
-<text x="578" y="125.5" fill="#ff9d3f" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">IDE:</text>
-<text x="800" y="125.5" fill="#6e7681" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">................</text>
-<text x="893" y="125.5" fill="#9cd7ff" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">VS Code, Codex, Claude Code</text>
-<text x="560" y="152.4" fill="#6e7681" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">•</text>
-<text x="578" y="152.4" fill="#ff9d3f" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">Languages.Programming:</text>
-<text x="800" y="152.4" fill="#6e7681" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">................</text>
-<text x="893" y="152.4" fill="#9cd7ff" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">TypeScript, Go, Python, PHP</text>
-<text x="560" y="171.3" fill="#6e7681" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">•</text>
-<text x="578" y="171.3" fill="#ff9d3f" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">Languages.Frontend:</text>
-<text x="800" y="171.3" fill="#6e7681" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">................</text>
-<text x="893" y="171.3" fill="#9cd7ff" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">React, Next.js, JavaScript</text>
-<text x="560" y="190.2" fill="#6e7681" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">•</text>
-<text x="578" y="190.2" fill="#ff9d3f" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">Languages.Backend:</text>
-<text x="800" y="190.2" fill="#6e7681" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">................</text>
-<text x="893" y="190.2" fill="#9cd7ff" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">Node.js, NestJS, FastAPI, Laravel</text>
-<text x="560" y="209.1" fill="#6e7681" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">•</text>
-<text x="578" y="209.1" fill="#ff9d3f" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">Languages.Data:</text>
-<text x="800" y="209.1" fill="#6e7681" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">................</text>
-<text x="893" y="209.1" fill="#9cd7ff" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">PostgreSQL, MySQL, MongoDB, Redis</text>
-<text x="560" y="236.0" fill="#6e7681" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">•</text>
-<text x="578" y="236.0" fill="#ff9d3f" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">Engineering.Arch:</text>
-<text x="800" y="236.0" fill="#6e7681" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">................</text>
-<text x="893" y="236.0" fill="#9cd7ff" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">Clean Architecture, Ports &amp; Adapters</text>
-<text x="560" y="254.9" fill="#6e7681" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">•</text>
-<text x="578" y="254.9" fill="#ff9d3f" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">Engineering.Infra:</text>
-<text x="800" y="254.9" fill="#6e7681" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">................</text>
-<text x="893" y="254.9" fill="#9cd7ff" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">Docker, Linux, AWS, Railway, CI/CD</text>
-<text x="560" y="273.8" fill="#6e7681" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">•</text>
-<text x="578" y="273.8" fill="#ff9d3f" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">AI.Agents:</text>
-<text x="800" y="273.8" fill="#6e7681" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">................</text>
-<text x="893" y="273.8" fill="#9cd7ff" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">LangChain, ReAct, Tool Calling</text>
-<text x="560" y="292.7" fill="#6e7681" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">•</text>
-<text x="578" y="292.7" fill="#ff9d3f" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">AI.Knowledge:</text>
-<text x="800" y="292.7" fill="#6e7681" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">................</text>
-<text x="893" y="292.7" fill="#9cd7ff" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">RAG, pgvector, Hybrid Search</text>
-<text x="560" y="319.6" fill="#c9d1d9" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="14.6" font-weight="400" xml:space="preserve">- Contact -----------------------------------------</text>
-<text x="560" y="338.5" fill="#6e7681" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">•</text>
-<text x="578" y="338.5" fill="#ff9d3f" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">Email.Personal:</text>
-<text x="800" y="338.5" fill="#6e7681" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">................</text>
-<text x="893" y="338.5" fill="#9cd7ff" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">christophermoreira.dev@gmail.com</text>
-<text x="560" y="357.4" fill="#6e7681" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">•</text>
-<text x="578" y="357.4" fill="#ff9d3f" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">LinkedIn:</text>
-<text x="800" y="357.4" fill="#6e7681" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">................</text>
-<text x="893" y="357.4" fill="#9cd7ff" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">in/chrísmoreiradev</text>
-<text x="560" y="376.3" fill="#6e7681" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">•</text>
-<text x="578" y="376.3" fill="#ff9d3f" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">GitHub:</text>
-<text x="800" y="376.3" fill="#6e7681" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">................</text>
-<text x="893" y="376.3" fill="#9cd7ff" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">@Christopher-Moreira</text>
-<text x="560" y="403.2" fill="#c9d1d9" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="14.6" font-weight="400" xml:space="preserve">- GitHub Stats ------------------------------------</text>
-<text x="560" y="422.1" fill="#6e7681" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">•</text>
-<text x="578" y="422.1" fill="#ff9d3f" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">Repos:</text>
-<text x="642" y="422.1" fill="#6e7681" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">.....</text>
-<text x="694" y="422.1" fill="#9cd7ff" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">12</text>
-<text x="728" y="422.1" fill="#c9d1d9" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">|</text>
-<text x="748" y="422.1" fill="#ff9d3f" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">Stars:</text>
-<text x="808" y="422.1" fill="#9cd7ff" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">11</text>
-<text x="843" y="422.1" fill="#c9d1d9" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">|</text>
-<text x="863" y="422.1" fill="#ff9d3f" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">Followers:</text>
-<text x="958" y="422.1" fill="#55d364" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">3</text>
-<text x="560" y="441.0" fill="#6e7681" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">•</text>
-<text x="578" y="441.0" fill="#ff9d3f" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">Following:</text>
-<text x="670" y="441.0" fill="#9cd7ff" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">12</text>
-<text x="706" y="441.0" fill="#c9d1d9" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">|</text>
-<text x="726" y="441.0" fill="#ff9d3f" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">Status:</text>
-<text x="792" y="441.0" fill="#55d364" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.2" font-weight="400" xml:space="preserve">Open for new challenges</text>
+<text x="540" y="31.0" fill="#c9d1d9" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="15.0" font-weight="400" xml:space="preserve">christopher@dev</text>
+<text x="686" y="31.0" fill="#6e7681" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="13.3" font-weight="400" xml:space="preserve">-----------------------------------------------</text>
+<text x="540" y="49.3" fill="#6e7681" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="14.3" font-weight="400" xml:space="preserve">•</text>
+<text x="558" y="49.3" fill="#ff9d3f" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="14.3" font-weight="400" xml:space="preserve">OS:</text>
+<text x="780" y="49.3" fill="#6e7681" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="14.3" font-weight="400" xml:space="preserve">................</text>
+<text x="873" y="49.3" fill="#9cd7ff" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="14.3" font-weight="400" xml:space="preserve">Arch Linux</text>
+<text x="540" y="67.6" fill="#6e7681" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="14.3" font-weight="400" xml:space="preserve">•</text>
+<text x="558" y="67.6" fill="#ff9d3f" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="14.3" font-weight="400" xml:space="preserve">Uptime:</text>
+<text x="780" y="67.6" fill="#6e7681" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="14.3" font-weight="400" xml:space="preserve">................</text>
+<text x="873" y="67.6" fill="#9cd7ff" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="14.3" font-weight="400" xml:space="preserve">2020 - until today</text>
+<text x="540" y="85.9" fill="#6e7681" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="14.3" font-weight="400" xml:space="preserve">•</text>
+<text x="558" y="85.9" fill="#ff9d3f" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="14.3" font-weight="400" xml:space="preserve">Focus:</text>
+<text x="780" y="85.9" fill="#6e7681" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="14.3" font-weight="400" xml:space="preserve">................</text>
+<text x="873" y="85.9" fill="#9cd7ff" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="14.3" font-weight="400" xml:space="preserve">Backend, Architecture, Full Stack, AI</text>
+<text x="540" y="112.2" fill="#6e7681" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="14.3" font-weight="400" xml:space="preserve">•</text>
+<text x="558" y="112.2" fill="#ff9d3f" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="14.3" font-weight="400" xml:space="preserve">Languages.Programming:</text>
+<text x="780" y="112.2" fill="#6e7681" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="14.3" font-weight="400" xml:space="preserve">................</text>
+<text x="873" y="112.2" fill="#9cd7ff" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="14.3" font-weight="400" xml:space="preserve">TypeScript, Go, Python, PHP</text>
+<text x="540" y="130.5" fill="#6e7681" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="14.3" font-weight="400" xml:space="preserve">•</text>
+<text x="558" y="130.5" fill="#ff9d3f" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="14.3" font-weight="400" xml:space="preserve">Languages.Frontend:</text>
+<text x="780" y="130.5" fill="#6e7681" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="14.3" font-weight="400" xml:space="preserve">................</text>
+<text x="873" y="130.5" fill="#9cd7ff" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="14.3" font-weight="400" xml:space="preserve">React, Next.js, JavaScript</text>
+<text x="540" y="148.8" fill="#6e7681" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="14.3" font-weight="400" xml:space="preserve">•</text>
+<text x="558" y="148.8" fill="#ff9d3f" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="14.3" font-weight="400" xml:space="preserve">Languages.Backend:</text>
+<text x="780" y="148.8" fill="#6e7681" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="14.3" font-weight="400" xml:space="preserve">................</text>
+<text x="873" y="148.8" fill="#9cd7ff" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="14.3" font-weight="400" xml:space="preserve">Node.js, NestJS, FastAPI, Laravel</text>
+<text x="540" y="167.1" fill="#6e7681" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="14.3" font-weight="400" xml:space="preserve">•</text>
+<text x="558" y="167.1" fill="#ff9d3f" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="14.3" font-weight="400" xml:space="preserve">Languages.Data:</text>
+<text x="780" y="167.1" fill="#6e7681" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="14.3" font-weight="400" xml:space="preserve">................</text>
+<text x="873" y="167.1" fill="#9cd7ff" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="14.3" font-weight="400" xml:space="preserve">PostgreSQL, MySQL, MongoDB, Redis, Amazon RDS</text>
+<text x="540" y="193.4" fill="#6e7681" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="14.3" font-weight="400" xml:space="preserve">•</text>
+<text x="558" y="193.4" fill="#ff9d3f" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="14.3" font-weight="400" xml:space="preserve">Engineering.Arch:</text>
+<text x="780" y="193.4" fill="#6e7681" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="14.3" font-weight="400" xml:space="preserve">................</text>
+<text x="873" y="193.4" fill="#9cd7ff" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="14.3" font-weight="400" xml:space="preserve">Clean Architecture, DDD</text>
+<text x="540" y="211.7" fill="#6e7681" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="14.3" font-weight="400" xml:space="preserve">•</text>
+<text x="558" y="211.7" fill="#ff9d3f" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="14.3" font-weight="400" xml:space="preserve">Engineering.Infra:</text>
+<text x="780" y="211.7" fill="#6e7681" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="14.3" font-weight="400" xml:space="preserve">................</text>
+<text x="873" y="211.7" fill="#9cd7ff" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="14.3" font-weight="400" xml:space="preserve">AWS, GCP, Railway, Serverless, Self-hosted</text>
+<text x="540" y="230.0" fill="#6e7681" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="14.3" font-weight="400" xml:space="preserve">•</text>
+<text x="558" y="230.0" fill="#ff9d3f" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="14.3" font-weight="400" xml:space="preserve">AI.Agents:</text>
+<text x="780" y="230.0" fill="#6e7681" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="14.3" font-weight="400" xml:space="preserve">................</text>
+<text x="873" y="230.0" fill="#9cd7ff" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="14.3" font-weight="400" xml:space="preserve">LangChain, ReAct, Tool Calling</text>
+<text x="540" y="248.3" fill="#6e7681" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="14.3" font-weight="400" xml:space="preserve">•</text>
+<text x="558" y="248.3" fill="#ff9d3f" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="14.3" font-weight="400" xml:space="preserve">AI.Knowledge:</text>
+<text x="780" y="248.3" fill="#6e7681" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="14.3" font-weight="400" xml:space="preserve">................</text>
+<text x="873" y="248.3" fill="#9cd7ff" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="14.3" font-weight="400" xml:space="preserve">RAG, pgvector, Hybrid Search</text>
+<text x="540" y="274.6" fill="#c9d1d9" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="13.9" font-weight="400" xml:space="preserve">- Contact -----------------------------------------</text>
+<text x="540" y="292.9" fill="#6e7681" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="14.3" font-weight="400" xml:space="preserve">•</text>
+<text x="558" y="292.9" fill="#ff9d3f" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="14.3" font-weight="400" xml:space="preserve">Email.Personal:</text>
+<text x="780" y="292.9" fill="#6e7681" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="14.3" font-weight="400" xml:space="preserve">................</text>
+<text x="873" y="292.9" fill="#9cd7ff" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="14.3" font-weight="400" xml:space="preserve">christophermoreira.dev@gmail.com</text>
+<text x="540" y="311.2" fill="#6e7681" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="14.3" font-weight="400" xml:space="preserve">•</text>
+<text x="558" y="311.2" fill="#ff9d3f" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="14.3" font-weight="400" xml:space="preserve">LinkedIn:</text>
+<text x="780" y="311.2" fill="#6e7681" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="14.3" font-weight="400" xml:space="preserve">................</text>
+<text x="873" y="311.2" fill="#9cd7ff" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="14.3" font-weight="400" xml:space="preserve">in/chrísmoreiradev</text>
+<text x="540" y="329.5" fill="#6e7681" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="14.3" font-weight="400" xml:space="preserve">•</text>
+<text x="558" y="329.5" fill="#ff9d3f" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="14.3" font-weight="400" xml:space="preserve">GitHub:</text>
+<text x="780" y="329.5" fill="#6e7681" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="14.3" font-weight="400" xml:space="preserve">................</text>
+<text x="873" y="329.5" fill="#9cd7ff" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="14.3" font-weight="400" xml:space="preserve">@Christopher-Moreira</text>
+<text x="540" y="355.8" fill="#c9d1d9" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="13.9" font-weight="400" xml:space="preserve">- GitHub Stats ------------------------------------</text>
+<text x="540" y="374.1" fill="#6e7681" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="14.3" font-weight="400" xml:space="preserve">•</text>
+<text x="558" y="374.1" fill="#ff9d3f" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="14.3" font-weight="400" xml:space="preserve">Repos:</text>
+<text x="622" y="374.1" fill="#6e7681" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="14.3" font-weight="400" xml:space="preserve">.....</text>
+<text x="674" y="374.1" fill="#9cd7ff" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="14.3" font-weight="400" xml:space="preserve">12</text>
+<text x="708" y="374.1" fill="#c9d1d9" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="14.3" font-weight="400" xml:space="preserve">|</text>
+<text x="728" y="374.1" fill="#ff9d3f" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="14.3" font-weight="400" xml:space="preserve">Stars:</text>
+<text x="788" y="374.1" fill="#9cd7ff" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="14.3" font-weight="400" xml:space="preserve">11</text>
+<text x="823" y="374.1" fill="#c9d1d9" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="14.3" font-weight="400" xml:space="preserve">|</text>
+<text x="843" y="374.1" fill="#ff9d3f" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="14.3" font-weight="400" xml:space="preserve">Followers:</text>
+<text x="938" y="374.1" fill="#55d364" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="14.3" font-weight="400" xml:space="preserve">3</text>
+<text x="540" y="392.4" fill="#6e7681" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="14.3" font-weight="400" xml:space="preserve">•</text>
+<text x="558" y="392.4" fill="#ff9d3f" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="14.3" font-weight="400" xml:space="preserve">Following:</text>
+<text x="650" y="392.4" fill="#9cd7ff" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="14.3" font-weight="400" xml:space="preserve">12</text>
+<text x="686" y="392.4" fill="#c9d1d9" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="14.3" font-weight="400" xml:space="preserve">|</text>
+<text x="706" y="392.4" fill="#ff9d3f" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="14.3" font-weight="400" xml:space="preserve">Status:</text>
+<text x="772" y="392.4" fill="#55d364" font-family="SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace" font-size="14.3" font-weight="400" xml:space="preserve">Open for new challenges</text>
 </svg>
